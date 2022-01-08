@@ -123,7 +123,6 @@ Skipping album tabs...
 ## Requirements:
 - Python 3 (3.7.7 was using in testing this project)
 - Beautiful Soup (3.2.2 was used in testing this project)
-This is just something I wanted to do in my free time.
 
 Inspiration for this was taken from [https://github.com/ccabrales/TabHero](https://github.com/ccabrales/TabHero)
 
