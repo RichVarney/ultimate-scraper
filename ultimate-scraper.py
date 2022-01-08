@@ -35,8 +35,8 @@ from bs4 import BeautifulSoup
 from datetime import datetime
 
 
-# save_location = os.path.abspath('/Users/richvarney/tabhero/tabs')
 save_location = os.getcwd()+'/tabs'
+
 
 def get_search_terms_from_user_input():
     search_type = input('\n> General search or specific artist/band?\n> Options "general" or "artist": ').lower()
